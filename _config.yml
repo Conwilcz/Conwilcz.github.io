@@ -8,7 +8,6 @@ version: 2
 # Personal info
 name: Conner Wilczewski
 title: Computer Engineer
-url: https://conwilcz.github.io/More-on-me.github.io/
 email: Wilczew9@msu.edu
 # email_title: Email (Email title override)
 phone: 248-639-9659
@@ -46,6 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
   This fascination with rapidly evolving technology was a key reason why I took my first steps into the world of computer networking by dual-enrolling at a technical college during high school.
   After finishing high school, I enrolled at Michigan State University with the interest in learning more about the different areas of computers, as well as technology in general, with the dream of one day being able to contribute to the creation of a new advancement of technology.
   
+  For less intricate information about myself, feel free to check my [Blog](https://conwilcz.github.io/More-on-me.github.io/)
    
   
   
