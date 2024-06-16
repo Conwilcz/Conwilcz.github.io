@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Conner Wilczewski
 title: Computer Engineer
+description: [For More Info] (https://conwilcz.github.io/More-on-me.github.io/)
 email: Wilczew9@msu.edu
 # email_title: Email (Email title override)
 phone: 248-639-9659
@@ -37,7 +38,7 @@ facebook_username: conner.wilczewski
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me [more about me and my hobbies!](https://conw266.github.io/) (Use this to override about section title)
+# about_title: Overview (Use this to override about section title)
 about_profile_image: /images/me.jpg 
 about_content: | # this will include new lines to allow paragraphs
   Since a young age, I've watched as technology continued to grow more advanced.  One leap of faith in dual enrollment of a computer networking class in highschool later,
@@ -119,23 +120,16 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Speaking:** Back in highschool, I was apart of a competitive speaking club, which was apart of the **Michigan Interscholastic Forensics Association** (MIFA). 
-      In my junior and senior year, I went on to states and obtained **5th** place overall in my catagory, oratory.
 
+      **Technical:** Circuit Analysis, Digital Circuit Design,  Circuit Troubleshooting, Computer Partitioning, Computer Troubleshooting.
 
-      **Handiwork:** In my free time, I help out with fundraisers for local charities. These fundraisers include all sorts of actvities per charity. My favorite local charity is the **Walled Lake Civic Fund**, as all proceeds go to a huge firework show for all residents and friends of Walled Lake!
-      
-      **Technical:** Circuit Analysis, Digital Circuit Design,  Circuit Troubleshooting, Computer Partitioning, Computer Troubleshooting
+      **Software:** Keil, MATLAB, PSPICE, Vivado, Microsoft Word.
 
-      **Software:** Keil, MATLAB, PSPICE, Vivado, Microsoft Word
+      **Programming Language:** Python (Intermediate), C++ (Intermediate), Verilog (Intermediate).
 
-      **Programming Language:** Python (Intermediate), C++ (Intermediate), Verilog (Intermediate)
+      **Language:** English (Native), Japanese (beginner), Hawaiian (beginner).
 
-      **Language:** English (Native), Japanese (beginner), Hawaiian (beginner)
-
-      **Certifications:** Living Online - 2019,  Computing Fundamentals - 2019
-
-      If you are curious to learn more about me and what I do in my free time, feel free to explore [more about me and my hobbies!](https://conw266.github.io/)
+      **Certifications:** Living Online - 2019,  Computing Fundamentals - 2019.
    
       
 
