@@ -53,10 +53,12 @@ about_content: | # this will include new lines to allow paragraphs
 #  - Tables
 #  - <a href="google.com">Links</a>
 #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
-# More on Me Section
-# more_on_me_title: More on Me (Use this to override the more on me section title)
-more_on_me_content: |
-  Testing new section 
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: /images/me.jpg 
+about_content: | # this will include new lines to allow paragraphs
+  Since a young age,
 
 content:
   - title: Experience
